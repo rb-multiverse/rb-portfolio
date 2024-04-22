@@ -35,6 +35,7 @@ Make sure you have the following installed on your machine:
 ```bash
 git clone https://github.com/rb-multiverse/rb-portfolio.git
 cd rb-portfolio
+```
 
 ### Installation
 
@@ -42,8 +43,10 @@ Install the project dependencies using npm:
 
 ```bash
 npm install
+```
 
 Running the Project:
 
 ```bash
 npm run dev
+```
