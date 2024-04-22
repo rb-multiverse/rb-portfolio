@@ -1,6 +1,8 @@
 # Personal Portfolio Site
 
-Welcome to my personal portfolio site! This project showcases a modern UI/UX website built using React.js and Tailwind CSS. It embodies contemporary design principles with its sleek interface, seamless animations, and overall user experience. Whether you're looking for inspiration or a reference for your own projects, this site sets a high standard for modern applications and websites.
+<img width="1728" alt="image" src="https://github.com/rb-multiverse/rb-portfolio/assets/91563448/266e4331-425d-48a5-b1e0-b8e354a42596">
+
+Welcome to my portfolio site! This project showcases a modern UI/UX website built using React.js and Tailwind CSS. It embodies contemporary design principles with its sleek interface, seamless animations, and overall user experience. Whether you're looking for inspiration or a reference for your own projects, this site sets a high standard for modern applications and websites.
 
 ## Features
 
@@ -8,9 +10,9 @@ Welcome to my personal portfolio site! This project showcases a modern UI/UX web
 
 🌌 **Parallax Animations:** Engaging effects triggered by mouse movement and scrolling.
 
-🔶 **Complex UI Geometry:** Utilizes Tailwind CSS for intricate shapes like circular feature displays, grid lines, and side lines.
+🔶 **Complex UI Geometry:** Utilizes Tailwind CSS for intricate shapes like circular feature displays, grid lines, and sidelines.
 
-🎨 **Latest UI Trends:** Incorporates modern design elements such as bento grids.
+🎨 **Latest UI Trends:** Incorporates modern design elements like bento grids.
 
 🌈 **Cool Gradients:** Enhances visuals with stylish gradients using Tailwind CSS for cards, buttons, etc.
 
@@ -20,7 +22,7 @@ Welcome to my personal portfolio site! This project showcases a modern UI/UX web
 
 ## Quick Start
 
-Follow these steps to set up the project locally on your machine.
+You can follow these steps to set up the project locally on your machine.
 
 ### Prerequisites
 
