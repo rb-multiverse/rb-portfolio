@@ -10,21 +10,21 @@ const Projects = () => {
       <h1 className="text-[40px] font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500 py-20">
         My Projects
       </h1>
-      <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
+      <div className="h-full w-full grid grid-cols-3 gap-10 px-10">
         <ProjectCard
-          src="/NextWebsite.png"
-          title="project 1"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          src="/nikeClone.png"
+          title="Nike Clone"
+          description="Nike-inspired landing page with responsive design, captivating visuals, and interactivity. Built using Tailwind CSS, React, Vite, JS, HTML, and Node.js."
         />
         <ProjectCard
-          src="/CardImage.png"
-          title="project 2"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          src="/recipeApp.png"
+          title="Recipe App"
+          description="I've crafted a dynamic food recipe application using React JS, Tailwind CSS, and the Edamam Recipe API, providing users with an culinary exploration experience."
         />
         <ProjectCard
-          src="/SpaceWebsite.png"
-          title="project 3"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          src="/imageGenerator.png"
+          title="Image Generator"
+          description="This full-stack image generator merges React, Firebase, and the Hugging Face API, offering a user-friendly interface and secure authentication."
         />
       </div>
     </div>
